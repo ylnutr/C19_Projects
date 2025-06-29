@@ -396,9 +396,9 @@ print(p2)
 dev.off()
 ```
 
-![Level 1 UMAP]("../Convert_Human_to_Mouse_reference/plots/mouseortholog_lvl1_umap.png")
+![Level 1 UMAP](imgs/mouseortholog_lvl1_umap.png)
 
-![Level 2 UMAP]("../Convert_Human_to_Mouse_reference/plots/mouseortholog_lvl2_umap.png")
+![Level 2 UMAP](imgs/mouseortholog_lvl2_umap.png)
 
 # 6. Exporting Seurat Objects for Loupe Browser Visualization
 

@@ -194,7 +194,6 @@ dev.off()
 ```
 
 ![Level 1 UMAP]("imgs/lvl1_umap.png")
-
 ![Level 2 UMAP]("imgs/lvl2_umap.png")
 
 # 3. Create Human-Mouse Gene Symbol Conversion List
